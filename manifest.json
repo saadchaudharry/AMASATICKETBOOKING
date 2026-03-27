@@ -1,0 +1,17 @@
+{
+  "name": "AMASA Ticket Booking",
+  "short_name": "AMASA",
+  "description": "Cheap flight tickets, bus, train, hotel & tour packages in India. Contact +91 9892776756",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1b3e",
+  "theme_color": "#c9a84c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
